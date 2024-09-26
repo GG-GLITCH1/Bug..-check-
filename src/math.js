@@ -1,18 +1,3 @@
-/* Subscribe My YouTube Channel: @GlobalTechInfo
-
-Follow The Channel For More :https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-
-Contact Me: https://t.me/GlobalTechInc
-
-GitHub: https://github.com/GlobalTechInfo
-
-Credit Qasim Ali
-
-🚫 DON'T TRY TO CHANGE ANYTHING OTHERWISE BOT WILL NOT WORK PROPERLY 🚫
-//
-
-
-
 let modes = {
     noob: [-3, 3,-3, 3, '+-', 15000, 10],
     easy: [-10, 10, -10, 10, '*/+-', 20000, 40],
